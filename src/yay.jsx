@@ -1,5 +1,5 @@
 import React from 'react'
-import useWindowSize from 'react-use'
+import { useWindowSize } from "@uidotdev/usehooks";
 import Confetti from 'react-confetti'
 
 const Yay = () => {
