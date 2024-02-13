@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { useWindowSize } from 'react-use';
+import { useWindowSize } from "@uidotdev/usehooks";
 
 function MovingButton() {
   const { width: windowWidth, height: windowHeight } = useWindowSize();
