@@ -4,7 +4,6 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import Home from './Home'
 import Yay from './yay'
-import { BrowserRouter as Route } from 'react-router-dom';
 
 
 function App() {
